@@ -101,7 +101,6 @@ class MyMQTTClass:
         #        print(e)
         #        time.sleep(10)
 
-
 class SocialHandler(EventHandler):
     def __init__(self, bot):
         super(SocialHandler, self).__init__()
